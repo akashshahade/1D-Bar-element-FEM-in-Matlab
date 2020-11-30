@@ -1,11 +1,5 @@
 %-------------------------------------------------------------------%
-% Software by -  Akash S. Shahade
-%                MT20CDM006 (25075)
-%                M.Tech First Year CadCam
-%                VNIT,Nagpur
-%
-% Faculty Advisor - Prof. M.S.Kotambkar
-%
+% Software by -  Akash Shahade
 % Title - Program for FE Analysis of 1D bar element With axial Load.
 %-------------------------------------------------------------------%
 clear;
